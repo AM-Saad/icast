@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123855467444",
+    "project_id": "icast-fae97",
+    "storage_bucket": "icast-fae97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123855467444:android:40e4095a2ecd5fec8df8e1",
+        "android_client_info": {
+          "package_name": "com.amsaad.icast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123855467444-n6quq0lhj0eiujppek6qon43qrlcd9jp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNrHMr5vse7zKaXHak2MyBiw3hxDEunAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123855467444-n6quq0lhj0eiujppek6qon43qrlcd9jp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
